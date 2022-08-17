@@ -2,6 +2,9 @@ A solar tracker by instructions of a blog at AZ-Delivery.de
 
 My favourite electronics distributor "AZ-delivery" has a blog where they posted a manual to create a "Solar Tracker" out of plywood. I asked the creator for a sketch so I can create STL for a 3D printer. He did me the favour and here we go. Yes, there are already plenty of Solar Tracker designs around, so what. Now it is one more.
 
+Video on YT:
+https://www.youtube.com/watch?v=tIO304yINBw
+
 To find schematics and sourcecode for Arduino UNO, just visit the (german) blog page: https://www.az-delivery.de/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/solar-tracker-mit-schrittmotoren-und-oled-display
 
 You can find a part list there, too.
